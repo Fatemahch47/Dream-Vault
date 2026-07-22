@@ -97,6 +97,9 @@ python main.py
 10. Total Dreams
 11. Exit
 ```
+<img width="446" height="252" alt="main menu" src="https://github.com/user-attachments/assets/6bc036d1-7f81-45b5-846a-e426edb811f5" />
+<img width="442" height="151" alt="add dream" src="https://github.com/user-attachments/assets/dd7fca46-f186-4a96-afc0-f8b144f1095f" />
+<img width="388" height="150" alt="Motivation report" src="https://github.com/user-attachments/assets/8cf911bb-ca64-4861-baf2-c05b8e9d9637" />
 
 ---
 
